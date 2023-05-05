@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexAquinoMiranda
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Cross-platform application development and learning programming languages: Python, Java, Kotlin.
+- 🌱 I’m currently learning Cross-platform application development and learning programming languages: Python, Java.
 - 📫 How to reach me AlexAquinoMiranda@gmail.com
 
 <!---
