@@ -27,9 +27,9 @@
 ### Herramientas de trabajo
 <div>
   <img width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
-  <img width="40" height="40" alt="Eclipse" title="Eclipse" src="[https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg](https://th.bing.com/th/id/R.c94e0a8eb9e687753977a540468e9745?rik=OBGWrE4TtulZGw&riu=http%3a%2f%2femhill.github.io%2f151-Su15%2fmorea%2fmaterials%2feclipse.jpg&ehk=iErgYmNTdgbbdUJOG40oOQNaWFLA5vT7oyo3%2b%2fVJUY8%3d&risl=&pid=ImgRaw&r=0)">
-    <img width="40" height="40" alt="Android Studio" title="Android Studio" src="[https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg](https://th.bing.com/th/id/OIP.PqzHQQb6jMJ-2Q2wdpPPHwHaHa?pid=ImgDet&rs=1)">
-    <img width="40" height="40" alt="Intellij idea" title="Intellij idea" src="[https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg](https://th.bing.com/th/id/R.b145b00dcdeb298e6683e1400cf17bf2?rik=G2EWMV1KUiil2w&pid=ImgRaw&r=0)">
+  <img width="40" height="40" alt="Eclipse" title="Eclipse" src="https://th.bing.com/th/id/R.c94e0a8eb9e687753977a540468e9745?rik=OBGWrE4TtulZGw&riu=http%3a%2f%2femhill.github.io%2f151-Su15%2fmorea%2fmaterials%2feclipse.jpg&ehk=iErgYmNTdgbbdUJOG40oOQNaWFLA5vT7oyo3%2b%2fVJUY8%3d&risl=&pid=ImgRaw&r=0">
+    <img width="40" height="40" alt="Android Studio" title="Android Studio" src="https://th.bing.com/th/id/OIP.PqzHQQb6jMJ-2Q2wdpPPHwHaHa?pid=ImgDet&rs=1">
+    <img width="40" height="40" alt="Intellij idea" title="Intellij idea" src="https://th.bing.com/th/id/R.b145b00dcdeb298e6683e1400cf17bf2?rik=G2EWMV1KUiil2w&pid=ImgRaw&r=0">
 </div>
 
 ## Contacto
