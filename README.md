@@ -2,11 +2,8 @@
 ## Sobre mí 🖖
 
 + Me llamo **Alexis Aquino**
-+ 
 + En mi GitHub encontraréis proyectos relacionados al tema de programación, sobre todo **Backend**.
 
-
-## ¿Qué estoy haciendo ahora? 🤔
 + Ahora estoy en búsqueda activa de empleo como **programador junior**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador.
 
 ## Tecnologías conocidas
@@ -19,11 +16,12 @@
 
 ### Back-End
 <div>
+  <img width="40" height="40" alt="java" title="Java" src="https://th.bing.com/th/id/R.62ad27bf6fb5f0c825c28b847c482b8a?rik=g3xhsobIYb1N9A&riu=http%3a%2f%2fprogrammingwebs.mono.net%2fupl%2fwebsite%2fjava-programming-has-its-own-formation-and-programming-pattern%2fJavaProgramToCalculateLinesOfCode273x5000.png&ehk=Pmwzys9fzShMIFEFAN%2fB%2bhmI0kjltdpGLtK7IwLc1ig%3d&risl=&pid=ImgRaw&r=0" >
   <img width="40" height="40" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-
   <img width="40" height="40" alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
   <img width="40" height="40" alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
   <img width="40" height="40" alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+  
 </div>
 
 ### Herramientas de trabajo
