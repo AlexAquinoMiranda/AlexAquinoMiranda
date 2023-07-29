@@ -1,7 +1,7 @@
 
 ## Sobre mí 🖖
 
-+ Me llamo **Alexis Aquino**
++ Me llamo **Alexis AquinoMiranda**
 + En mi GitHub encontraréis proyectos relacionados al tema de programación, sobre todo **Backend**.
 
 + Ahora estoy en búsqueda activa de empleo como **programador junior**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador.
@@ -21,6 +21,7 @@
   <img width="40" height="40" alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
   <img width="40" height="40" alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
   <img width="40" height="40" alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+    <img width="40" height="40" alt="Oracle sql" title="Oracle sql" src="https://th.bing.com/th/id/OIP.164toqi0RVyYdwx0p30iKwHaHa?pid=ImgDet&rs=1">
   
 </div>
 
