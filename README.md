@@ -1,12 +1,11 @@
 
-## Sobre mí 🖖
+## À propos de moi 🖖
 
-+ Me llamo **Alexis AquinoMiranda**
-+ En mi GitHub encontraréis proyectos relacionados al tema de programación, sobre todo **Backend**.
++ Je m’appelle Alexis AquinoMiranda
++ Sur mon GitHub vous trouverez des projets liés à la programmation, notamment Backend.
++ Maintenant, je suis activement à la recherche d’un emploi en tant que programmeur junior, en même temps que je me forme à des technologies qui me permettent de grandir en tant que développeur.
 
-+ Ahora estoy en búsqueda activa de empleo como **programador junior**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador.
-
-## Tecnologías conocidas
+## Technologies 
 ### Front-End
 <div>
   <img width="40" height="40" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
@@ -25,7 +24,7 @@
   
 </div>
 
-### Herramientas de trabajo
+### Outils de trabail
 <div>
   <img width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
   <img width="40" height="40" alt="Eclipse" title="Eclipse" src="https://th.bing.com/th/id/R.c94e0a8eb9e687753977a540468e9745?rik=OBGWrE4TtulZGw&riu=http%3a%2f%2femhill.github.io%2f151-Su15%2fmorea%2fmaterials%2feclipse.jpg&ehk=iErgYmNTdgbbdUJOG40oOQNaWFLA5vT7oyo3%2b%2fVJUY8%3d&risl=&pid=ImgRaw&r=0">
@@ -33,8 +32,8 @@
     <img width="40" height="40" alt="Intellij idea" title="Intellij idea" src="https://th.bing.com/th/id/R.b145b00dcdeb298e6683e1400cf17bf2?rik=G2EWMV1KUiil2w&pid=ImgRaw&r=0">
 </div>
 
-## Contacto
-Podéis poneros en contacto conmigo para cualquier oportunidad laboral:
+## Contact
+Vous pouvez me contacter pour toute opportunité d’emploi :
 <div style=display: flex; align-items: center; gap: .5em;>
   <a target="_blank" href="https://www.linkedin.com/in/alexis-aquino-miranda-053b0a252/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   <a href="mailto:alexaquinomiranda@gmail.com"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
