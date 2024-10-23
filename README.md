@@ -1,4 +1,3 @@
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/101297597?s=96&v=4"  />
 
 ###
 
