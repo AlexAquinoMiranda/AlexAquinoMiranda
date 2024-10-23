@@ -1,55 +1,131 @@
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/101297597?s=96&v=4"  />
 
-## À propos de moi 🖖
+###
 
-+ Je m’appelle Alexis AquinoMiranda
-+ Sur mon GitHub vous trouverez des projets liés à la programmation, notamment Backend.
-+ Maintenant, je suis activement à la recherche d’un emploi en tant que programmeur junior, en même temps que je me forme à des technologies qui me permettent de grandir en tant que développeur.
+<h1 align="left">Salut, Je suis Alexis Aquino Miranda</h1>
 
-## Technologies 
-### Front-End
-<div>
-  <img width="40" height="40" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
-  <img width="40" height="40" alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
-  <img width="40" height="40" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
+###
+
+<h5 align="left">Sur mon GitHub vous trouverez des projets liés à la programmation, notamment Backend.<br>Maintenant, je suis activement à la recherche d’un emploi en tant que programmeur junior, en même temps que je me forme à des technologies qui me permettent de grandir en tant que développeur.</h5>
+
+###
+
+<h3 align="left">Technologies</h3>
+
+###
+
+<h4 align="center">Front end</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
 </div>
 
-### Back-End
-<div>
-  <img width="40" height="40" alt="java" title="Java" src="https://th.bing.com/th/id/R.62ad27bf6fb5f0c825c28b847c482b8a?rik=g3xhsobIYb1N9A&riu=http%3a%2f%2fprogrammingwebs.mono.net%2fupl%2fwebsite%2fjava-programming-has-its-own-formation-and-programming-pattern%2fJavaProgramToCalculateLinesOfCode273x5000.png&ehk=Pmwzys9fzShMIFEFAN%2fB%2bhmI0kjltdpGLtK7IwLc1ig%3d&risl=&pid=ImgRaw&r=0" >
-  <img width="40" height="40" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-  <img width="40" height="40" alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
-  <img width="40" height="40" alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
-  <img width="40" height="40" alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
-    <img width="40" height="40" alt="Oracle sql" title="Oracle sql" src="https://th.bing.com/th/id/OIP.164toqi0RVyYdwx0p30iKwHaHa?pid=ImgDet&rs=1">
-  
+###
+
+<h4 align="center">Back end</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
 </div>
 
-### Outils de travail
-<div>
-  <img width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
-  <img width="40" height="40" alt="Eclipse" title="Eclipse" src="https://th.bing.com/th/id/R.c94e0a8eb9e687753977a540468e9745?rik=OBGWrE4TtulZGw&riu=http%3a%2f%2femhill.github.io%2f151-Su15%2fmorea%2fmaterials%2feclipse.jpg&ehk=iErgYmNTdgbbdUJOG40oOQNaWFLA5vT7oyo3%2b%2fVJUY8%3d&risl=&pid=ImgRaw&r=0">
-    <img width="40" height="40" alt="Android Studio" title="Android Studio" src="https://th.bing.com/th/id/OIP.PqzHQQb6jMJ-2Q2wdpPPHwHaHa?pid=ImgDet&rs=1">
-    <img width="40" height="40" alt="Intellij idea" title="Intellij idea" src="https://th.bing.com/th/id/R.b145b00dcdeb298e6683e1400cf17bf2?rik=G2EWMV1KUiil2w&pid=ImgRaw&r=0">
+###
+
+<h4 align="center">Base de données</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="35" alt="sqlalchemy logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="microsoftsqlserver logo"  />
 </div>
 
-## Contact
-Vous pouvez me contacter pour toute opportunité d’emploi :
-<div style=display: flex; align-items: center; gap: .5em;>
-  <a target="_blank" href="https://www.linkedin.com/in/alexis-aquino-miranda-053b0a252/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-  <a href="mailto:alexaquinomiranda@gmail.com"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+###
+
+<h4 align="center">Outils de travail</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="anaconda logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="androidstudio logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="35" alt="trello logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="visualstudio logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="35" alt="aarch64 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35" alt="jira logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="35" alt="heroku logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm logo"  />
 </div>
 
-<!--
-**AlexAquinoMiranda/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left"></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h5 align="left">Vous pouvez me contacter pour toute opportunité d’emploi :</h5>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/alexis-aquino-miranda-053b0a252/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="alexaquinomiranda@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="30" alt="gmail logo"  />
+  </a>
+  <a href="alex_xmiranda" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
+###
